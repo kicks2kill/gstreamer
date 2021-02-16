@@ -1,0 +1,2 @@
+gcc tutorial.c -o tutorial `pkg-config --cflags gtk+-3.0 --libs gstreamer-video-1.0 gtk+-3.0 gstreamer-1.0`
+
